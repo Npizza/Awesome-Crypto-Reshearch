@@ -15,6 +15,9 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [The Whitepaper of Continuous Organisations](https://github.com/C-ORG/whitepaper/)
 - [The DAOfund](https://docs.google.com/document/d/1bL8StW1-0nrP9dMo5dr01ExKKI1v5Gh7bC1SrJulzwA/edit#)
 
+## Awesome Organizations
+
+- [DOLO](https://dolo.org/) is a decentralized open learning organism, built and run by its members, iterating towards a smarter education system for all.
 
 ## Articles for Moloch
 
@@ -54,3 +57,13 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 - [Scuttlebutt](https://www.scuttlebutt.nz/)  a decent(ralised) secure gossip platform
 
+- [Alternative Internet](https://github.com/redecentralize/alternative-internet) 
+A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [hive.one](https://hive.one/) Discover interesting people on crypto-space.
+
+- [Subgraph OS](https://subgraph.com/) Subgraph OS is a desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. It is also meant to be familiar and easy to use.
+- [Find hackathons](https://devpost.com/)
+
+-[odyssy.io](https://odyssy.io/work) Odyssy is a decentralized collective delivering full stack design and development to the blockchain and beyond.
+
+- 
