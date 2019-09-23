@@ -11,7 +11,9 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 
 ##Articles for DAOs
-
+- [Introducing Continuous Organizations](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7?source=post_page-----2a800b3aa2e7----------------------)
+- [The Whitepaper of Continuous Organisations](https://github.com/C-ORG/whitepaper/)
+- [The DAOfund](https://docs.google.com/document/d/1bL8StW1-0nrP9dMo5dr01ExKKI1v5Gh7bC1SrJulzwA/edit#)
 
 
 ## Articles for Moloch
@@ -33,8 +35,22 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [Official website](https://blog.rsk.co/)
 - [Building economies on top of bitcoin: Rootstock (RSK) explained](https://hackernoon.com/second-layer-on-top-of-bitcoin-rootstock-rsk-explained-88ab724222b2)
 
+## Awesome Tools for dapps
+
+- [Bluzelle is for Serverless and Distributed Applications](https://bluzelle.com/)  The Distributed Open Source Database Service 
+
+## Awesome DeFi
+- [Open Finance: What can you use right now?](https://settle.finance/blog/open-finance-right-now/)
+- [defipulse.com](https://defipulse.com/defi-list)  Usefull list of DeFi projects and various stats.
 
 
 
+## Awesome Projects
+- [concourseq.io](https://concourseq.io/) Community that helps to identify ICOs. 
 
+- [Awesome web3](https://github.com/JoinColony/awesome-web3) List of web3 tools.
+
+- [A curated list of awesome Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity)
+
+- [Scuttlebutt](https://www.scuttlebutt.nz/)  a decent(ralised) secure gossip platform
 
