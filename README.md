@@ -9,8 +9,7 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 [TOC]
 
-
-##Articles for DAOs
+## Articles for DAOs
 - [Introducing Continuous Organizations](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7?source=post_page-----2a800b3aa2e7----------------------)
 - [The Whitepaper of Continuous Organisations](https://github.com/C-ORG/whitepaper/)
 - [The DAOfund](https://docs.google.com/document/d/1bL8StW1-0nrP9dMo5dr01ExKKI1v5Gh7bC1SrJulzwA/edit#)
@@ -64,6 +63,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 - [Subgraph OS](https://subgraph.com/) Subgraph OS is a desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. It is also meant to be familiar and easy to use.
 - [Find hackathons](https://devpost.com/)
 
--[odyssy.io](https://odyssy.io/work) Odyssy is a decentralized collective delivering full stack design and development to the blockchain and beyond.
+- [odyssy.io](https://odyssy.io/work) Odyssy is a decentralized collective delivering full stack design and development to the blockchain and beyond.
 
-- 
+- [nativeproject.one](https://nativeproject.one/) helps digital communities organize, incentivize their members and generate revenue in new ways.
+
