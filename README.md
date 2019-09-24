@@ -79,4 +79,10 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 - [giveth.io](https://giveth.io/) is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain
 
+## Network analysis tools
+
 -[santiment.net](https://santiment.net/sangraphs/) Network monitoring and more about network analysis 
+
+- [app.santiment.net/labs/trends](https://app.santiment.net/labs/trends) Network monitoring and more about network analysis
+
+- [bukkt](https://www.bakkt.com/about)Bakkt’s bitcoin futures and warehouse to debut
