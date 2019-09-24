@@ -78,3 +78,5 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 - [kleros.io](kleros.io) The blockchain dispute resolution layer. Fast, open and affordable justice for all.
 
 - [giveth.io](https://giveth.io/) is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain
+
+-[santiment.net](https://santiment.net/sangraphs/) Network monitoring and more about network analysis 
