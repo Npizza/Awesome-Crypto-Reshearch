@@ -79,6 +79,10 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 - [giveth.io](https://giveth.io/) is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain
 
+- [iotex](www.iotex.io)Decentralized and Privacy-centric Platform to Power Internet of Trusted Things
+
+- [cosmos.network](https://cosmos.network/developers)Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.
+
 ## Network analysis tools
 
 -[santiment.net](https://santiment.net/sangraphs/) Network monitoring and more about network analysis 
