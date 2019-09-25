@@ -7,7 +7,6 @@ This is a collection of project and articles from my reshearch in crypto world!
 **Table of Contents**
 
 
-[TOC]
 
 ## Articles for DAOs
 - [Introducing Continuous Organizations](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7?source=post_page-----2a800b3aa2e7----------------------)
@@ -16,7 +15,7 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 ## Awesome Organizations
 
-- [DOLO](https://dolo.org/) is a decentralized open learning organism, built and run by its members, iterating towards a smarter education system for all.
+- [DOLO](https://dolo.org/) - is a decentralized open learning organism, built and run by its members, iterating towards a smarter education system for all.
 
 ## Articles for Moloch
 
@@ -38,9 +37,9 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [Building economies on top of bitcoin: Rootstock (RSK) explained](https://hackernoon.com/second-layer-on-top-of-bitcoin-rootstock-rsk-explained-88ab724222b2)
 
 ## IPFS protocol
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
-- [IPLD](https://ipld.io/) is the data model of the content-addressable web. It allows us to treat all hash-linked data structures as subsets of a unified information space, unifying all data models that link data with hashes as instances of IPL
-
+- [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [IPLD](https://ipld.io/) - is the data model of the content-addressable web. It allows us to treat all hash-linked data structures as subsets of a unified information space, unifying all data models that link data with hashes as instances of IPL
+- [proto.school](https://proto.school/#/) - Our self-guided interactive tutorials are designed to introduce you to decentralized web concepts, protocols, and tools. Complete code challenges right in your web browser and track your progress as you go. 
 
 
 ## Awesome Tools for dapps
