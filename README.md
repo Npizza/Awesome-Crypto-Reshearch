@@ -12,6 +12,16 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [Introducing Continuous Organizations](https://hackernoon.com/introducing-continuous-organizations-22ad9d1f63b7?source=post_page-----2a800b3aa2e7----------------------)
 - [The Whitepaper of Continuous Organisations](https://github.com/C-ORG/whitepaper/)
 - [The DAOfund](https://docs.google.com/document/d/1bL8StW1-0nrP9dMo5dr01ExKKI1v5Gh7bC1SrJulzwA/edit#)
+- [Incremental Decentralization](https://medium.com/abridged-io/incremental-decentralization-7f0110b0997) 
+
+## Articles for Ethereum
+
+- [Getting the most out of CREATE2](https://blog.openzeppelin.com/getting-the-most-out-of-create2/) - depth into the CREATE2 opcode and its uses in counterfactual instantiation and user onboarding
+- [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/#eoa-vs-contract-accounts) - help people understand some of the basic mechanics behind accounts, transactions, gas, and the role miners play in setting the block size in Ethereum
+
+- [Build your app with the Gas Station Network](https://blog.openzeppelin.com/build-your-app-with-the-gas-station-network/) - GSN for short, is a decentralized solution for solving user onboarding to Ethereum applications.
+
+
 
 ## Awesome Organizations
 
@@ -30,6 +40,7 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 - [Official Website](https://thegraph.com/)
 - [Decentralized index for faster dApps: The Graph](https://hackernoon.com/decentralized-index-for-faster-dapps-the-graph-d93902b3f601)
+- [2key.network & The Graph (Part 1): The Graph and Its Contribution to dApps and Blockchain Development](https://medium.com/2key/the-graph-and-its-contribution-to-dapps-and-blockchain-development-6bbbab1bcc21)
 
 ## Rootstock Protocol
 
