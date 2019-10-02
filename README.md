@@ -94,6 +94,8 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 - [cosmos.network](https://cosmos.network/developers)Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.
 
+- [Vocado Vertures](https://vocadoventures.com/) Innovators that thelp with funding, recruting and more.
+
 ## Network analysis tools
 
 -[santiment.net](https://santiment.net/sangraphs/) Network monitoring and more about network analysis 
