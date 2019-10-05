@@ -63,6 +63,8 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [defipulse.com](https://defipulse.com/defi-list)  Usefull list of DeFi projects and various stats.
 
 
+## Awesome Forums
+- [ethresear](https://ethresear.ch) Forum for ethereum research and DAOs
 
 ## Awesome Projects
 - [concourseq.io](https://concourseq.io/) Community that helps to identify ICOs. 
