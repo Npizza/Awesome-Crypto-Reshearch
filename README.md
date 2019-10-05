@@ -65,6 +65,8 @@ This is a collection of project and articles from my reshearch in crypto world!
 
 ## Awesome Forums
 - [ethresear](https://ethresear.ch) Forum for ethereum research and DAOs
+- [aragon](https://forum.aragon.org) Aragon forum.
+- [Colony](https://build.colony.io/) Colony forum
 
 ## Awesome Projects
 - [concourseq.io](https://concourseq.io/) Community that helps to identify ICOs. 
