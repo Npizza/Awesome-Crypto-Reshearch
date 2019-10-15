@@ -61,7 +61,7 @@ This is a collection of project and articles from my reshearch in crypto world!
 ## Awesome DeFi
 - [Open Finance: What can you use right now?](https://settle.finance/blog/open-finance-right-now/)
 - [defipulse.com](https://defipulse.com/defi-list)  Usefull list of DeFi projects and various stats.
-
+- [Walrus Paper Wallet Generator ](https://github.com/pi0neerpat/Walrus-Paper-Wallet-Generator) Generate and fund hundreds of paper wallets, for a workshop or in-person giveaway
 
 ## Awesome Forums
 - [ethresear](https://ethresear.ch) Forum for ethereum research and DAOs
