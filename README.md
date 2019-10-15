@@ -57,7 +57,7 @@ This is a collection of project and articles from my reshearch in crypto world!
 ## Awesome Tools for dapps
 
 - [Bluzelle is for Serverless and Distributed Applications](https://bluzelle.com/)  The Distributed Open Source Database Service 
-
+- [one-click-dApp](https://github.com/pi0neerpat/one-click-dApp) One click dapp.
 ## Awesome DeFi
 - [Open Finance: What can you use right now?](https://settle.finance/blog/open-finance-right-now/)
 - [defipulse.com](https://defipulse.com/defi-list)  Usefull list of DeFi projects and various stats.
