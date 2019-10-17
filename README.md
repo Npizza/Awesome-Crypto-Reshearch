@@ -69,6 +69,8 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [Colony](https://build.colony.io/) Colony forum
 
 ## Awesome Projects
+- [pools.fyi](https://pools.fyi) Find the best liquidity pools
+
 - [sparkle](https://sparkle.money) Sparkle is money that fights income inequality by proportionally redistributing two percent of every transaction to each person in the economy.
 
 - [concourseq.io](https://concourseq.io/) Community that helps to identify ICOs. 
