@@ -28,6 +28,11 @@ This is a collection of project and articles from my reshearch in crypto world!
 - [DOLO](https://dolo.org/) - is a decentralized open learning organism, built and run by its members, iterating towards a smarter education system for all.
 
 - [DAOincubator](https://ecosystem.daoincubator.org/meta/) - bring together builders, activists, researchers and investors to user in the age of DAOs
+
+## Articles
+-[A Token Engineering Process](https://syoung.org/2019/10/18/a-token-engineering-process/)
+
+
 ## Articles for Moloch
 
 - [Inside Moloch: A new DAO aims to fix Ethereum](https://decrypt.co/5206/fixing-ethereum)
